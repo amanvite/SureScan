@@ -1,0 +1,16 @@
+{
+  "ImageParameter": {
+    "Name": "DPM_DotPeen_Profile",
+    "BarcodeFormatIds": ["BF_DATAMATRIX"],
+    "DPMCodeReadingModes": ["DPMCRM_GENERAL"],
+    "RegionDefinitionNameArray": ["CenterROI"]
+  },
+  "RegionDefinition": {
+    "Name": "CenterROI",
+    "Top": 30,
+    "Bottom": 70,
+    "Left": 30,
+    "Right": 70,
+    "MeasuredByPercentage": 1
+  }
+}
